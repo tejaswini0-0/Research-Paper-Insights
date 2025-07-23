@@ -17,7 +17,7 @@ from config import GROQ_API_KEY
 nltk.download('punkt')
 
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": "*"}})
+CORS(app, resources={r"/*": {"origins": "https://tejaswini0-0.github.io/Research-Paper-Insights/"}})
 
 UPLOAD_FOLDER = "uploads"
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
