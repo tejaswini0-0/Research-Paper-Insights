@@ -30,8 +30,6 @@ interface ChatHistoryItem {
   timestamp: number;
 }
 
-const API_URL = process.env.REACT_APP_API_URL || 'https://research-paper-insights.onrender.com';
-
 export function PaperChat({ paper, onClose }: PaperChatProps) {
   const [messages, setMessages] = useState<Message[]>([]);
   const [inputValue, setInputValue] = useState("");
@@ -47,7 +45,7 @@ export function PaperChat({ paper, onClose }: PaperChatProps) {
   useEffect(() => {
     async function loadHistory() {
       try {
-        const res = await fetch(`${API_URL}/chat_history/${paper.id}`);
+        const res = await fetch(`http://localhost:5000/chat_history/${paper.id}`);
         const historyData: ChatHistoryItem[] = await res.json();
 
         // Convert history items to messages

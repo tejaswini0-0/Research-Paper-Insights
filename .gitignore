@@ -28,3 +28,5 @@ package-lock.json
 
 config.py
 __pycache__
+.env
+*.env

@@ -120,5 +120,45 @@
       "content": "The methodology used in this research is not explicitly stated. However, based on the text, it can be inferred that the research involves a multidisciplinary approach, combining disciplines such as public health, nutrition, economics, geography, and urban planning. The research also appears to involve analytical methods for the analysis and quantification of food colorants, as well as biopreservation approaches such as the use of lytic bacteriophages, lactic acid bacteria, and bacteriocins. Additionally, the research involves understanding the psychological impact of food color on flavor perception and the sensory and hedonic expectations elicited by food color in different groups of individuals.",
       "timestamp": 1753263655155
     }
+  ],
+  "03dfc4d3-15c4-4e93-80ba-1cc14fde27c2": [
+    {
+      "paperId": "03dfc4d3-15c4-4e93-80ba-1cc14fde27c2",
+      "role": "user",
+      "content": "Summary of this paper",
+      "timestamp": 1753372997359
+    },
+    {
+      "paperId": "03dfc4d3-15c4-4e93-80ba-1cc14fde27c2",
+      "role": "assistant",
+      "content": "1. Title. Applications of food color and bio-preservatives in the food and its effect on the human health.\n\n2. Authors. Subhashish Dey and Bommu Hema Nagabu.\n\n3. Year. 2022.\n\n4. Objectives. The main objective of this study is to review the applications of food colors and bio-preservatives in the food industry and their effects on human health.\n\n5. Methodology. The study is a review of existing literature on food colors and bio-preservatives, their types, advantages, and disadvantages, and their effects on human health.\n\n6. Advantages. Food colors and bio-preservatives have several advantages, including enhancing the appearance and shelf life of food products, and preventing spoilage and contamination.\n\n7. Disadvantages. However, some food colors and bio-preservatives have been linked to severe health problems, including mutations, cancers, and allergic reactions, and their excessive use can lead to adverse health effects.\n\n8. Conclusion. The study concludes that while food colors and bio-preservatives have several benefits, their use should be regulated and monitored to prevent adverse health effects, and natural alternatives should be explored to ensure consumer safety.",
+      "timestamp": 1753372997360
+    }
+  ],
+  "dc1ffff8-d6cf-4c79-9f16-bad58f63e7b5": [
+    {
+      "paperId": "dc1ffff8-d6cf-4c79-9f16-bad58f63e7b5",
+      "role": "user",
+      "content": "Summary of this paper",
+      "timestamp": 1753373183515
+    },
+    {
+      "paperId": "dc1ffff8-d6cf-4c79-9f16-bad58f63e7b5",
+      "role": "assistant",
+      "content": "1. Title. \nApplications of food color and bio-preservatives in the food and its effect on the human health.\n\n2. Authors. \nSubhashish Dey and Bommu Hema Nagabu.\n\n3. Year. \n2022.\n\n4. Objectives. \nThe main objective of this research is to study the applications of food colors and bio-preservatives in the food industry and their effects on human health.\n\n5. Methodology. \nThe research methodology involves a review of existing literature on food colors and bio-preservatives, their types, advantages, and disadvantages, and their effects on human health.\n\n6. Advantages. \nFood colors and bio-preservatives have several advantages, including enhancing the appearance and shelf life of food products, preventing spoilage, and providing a competitive edge to food manufacturers.\n\n7. Disadvantages. \nHowever, the excessive use of synthetic food colors and bio-preservatives can have adverse effects on human health, including mutations, cancers, reduced hemoglobin concentrations, and allergic reactions.\n\n8. Conclusion. \nThe study concludes that while food colors and bio-preservatives have several advantages, their excessive use can have severe health consequences. Therefore, it is essential to implement regulations and awareness programs to promote the responsible use of food colors and bio-preservatives in the food industry.",
+      "timestamp": 1753373183516
+    },
+    {
+      "paperId": "dc1ffff8-d6cf-4c79-9f16-bad58f63e7b5",
+      "role": "user",
+      "content": "What are the main findings of this paper?",
+      "timestamp": 1753373197869
+    },
+    {
+      "paperId": "dc1ffff8-d6cf-4c79-9f16-bad58f63e7b5",
+      "role": "assistant",
+      "content": "The main findings of this paper are not explicitly stated as the text appears to be a collection of related topics in the field of food and nutrition. However, the text highlights several important points:\n\n1. Exposure to unhealthy food marketing is a risk factor for childhood obesity and non-communicable diseases.\n2. Food desert research aims to understand factors contributing to food deserts and identify ways to facilitate change for health and non-health benefits.\n3. The growth of microorganisms in perishable foods is an expected event that can lead to spoilage, even if the food has been prepared from wholesome raw materials and has been properly processed, packaged, and stored.\n4. In India, food additives must be approved by the National Food and Drug Administration and Control (NFDAC) in conjunction with the Standard Organization on India, and there are regulations governing the use of food additives, labeling, and sale of food products.\n\nOverall, the text provides an overview of various topics related to food, nutrition, and health, but does not present specific main findings or conclusions.",
+      "timestamp": 1753373197870
+    }
   ]
 }

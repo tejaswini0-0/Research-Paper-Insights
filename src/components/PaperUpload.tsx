@@ -2,8 +2,6 @@ import { useState } from "react";
 import { toast } from "sonner";
 import axios from "axios";
 
-const API_URL = process.env.REACT_APP_API_URL || 'https://research-paper-insights.onrender.com';
-
 export function PaperUpload() {
   const [selectedFile, setSelectedFile] = useState<File | null>(null);
   const [title, setTitle] = useState("");
@@ -30,7 +28,7 @@ export function PaperUpload() {
 
     try {
       setUploading(true);
-      const response = await axios.post(`${API_URL}/upload`, formData, {
+      const response = await axios.post("http://localhost:5000/upload", formData, {
         headers: { "Content-Type": "multipart/form-data" },
       });
 
